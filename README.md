@@ -11,4 +11,5 @@ Tensorflow Implementation of Vanilla Generative Adversarial Network.
 * Python 
 * Tensorflow
 * Numpy
+* Matplotlib
 
